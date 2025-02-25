@@ -1,0 +1,5 @@
+ICT2022065 : index.html, ai.html
+ICT2022063 : task.html
+ICT2022062 : admin.html
+ICT2022051 : group.html
+ICT2022102 : login.html, request.html
